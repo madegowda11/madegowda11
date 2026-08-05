@@ -18,9 +18,9 @@ I'm **Madegowda**, a passionate developer and tech enthusiast.
 - 🤝 Collaborate on interesting projects
 
 ## Let's Connect
-- 📧 [Email](mailto:your-email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 [Email](mailto:madegowdan11@gmail.com)
+- 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/madegowda-n11/))
+- 🌐 [Portfolio]([https://yourportfolio.com](https://madegowda11.github.io/maadhu.dev/))
 
 ---
 
