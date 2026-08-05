@@ -18,9 +18,20 @@ I'm **Madegowda**, a passionate developer and tech enthusiast.
 - 🤝 Collaborate on interesting projects
 
 ## Let's Connect
-- 📧 [Email](mailto:madegowdan11@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/madegowda-n11/)
-- 🌐 [Portfolio](https://madegowda11.github.io/maadhu.dev/)
+<p align="center">
+  <a href="mailto:madegowdan11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/madegowda-n11/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://madegowda11.github.io/maadhu.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://substack.com/@madegowda11" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+  </a>
+</p>
 
 ---
 
