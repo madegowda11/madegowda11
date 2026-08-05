@@ -28,7 +28,7 @@ I'm **Madegowda**, a passionate developer and tech enthusiast.
   <a href="https://madegowda11.github.io/maadhu.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://substack.com/@madegowda11" target="_blank">
+  <a href="https://substack.com/@maadhu?utm_source=share&utm_medium=android&r=8bxmoo" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
   </a>
 </p>
