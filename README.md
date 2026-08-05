@@ -9,7 +9,7 @@ I'm **Madegowda**, a passionate developer and tech enthusiast.
 
 ## Skills
 **Languages:** JavaScript, Python, Java, HTML, CSS  
-**Tools & Technologies:** Git, Docker, React, Node.js, SQL  
+**Tools & Technologies:** Git, MySQL, Eclipse, Visual Studio Code  
 **Interests:** Web Development, Problem Solving, Open Source
 
 ## What I Do
